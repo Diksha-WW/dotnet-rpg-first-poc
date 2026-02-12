@@ -1,2 +1,2 @@
 # dotnet-rpg-first-poc
-This is a botnet first POC.
+This is a dotnet first POC.
